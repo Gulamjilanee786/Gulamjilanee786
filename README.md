@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on Full Stack Web Development Projects.<br><br>👯 I'm looking to collaborate on MERN Stack and Open Source Projects.<br><br>🤝 I'm looking for help with Advanced Backend Development and System Design.<br><br>🌱 I'm currently learning React.js, Next.js, Node.js, Express.js and MongoDB.<br><br>💬 Ask me about JavaScript, React.js, Node.js, Express.js and MongoDB.<br><br>⚡ Fun fact: I love solving coding problems and turning ideas into real-world applications!
+## 🙋‍♂️ About Me<br><br>🎓 I'm a Computer Science and Engineering Graduate from Kurukshetra University, Kurukshetra.<br><br>🔭 I'm currently working on Full Stack Web Development Projects.<br><br>👯 I'm looking to collaborate on MERN Stack and Open Source Projects.<br><br>🤝 I'm looking to improve my skills in Advanced Backend Development and System Design.<br><br>🌱 I'm currently learning React.js, Next.js, Node.js, Express.js and MongoDB.<br><br>💬 Ask me about JavaScript, React.js, Node.js, Express.js and MongoDB.<br><br>⚡ Fun fact: I love solving coding problems and turning ideas into real-world applications!<br><br>🎯 My Goal: To become a skilled Full Stack Software Engineer and build impactful applications.
 
 
 ## 🌐 Socials:
@@ -15,19 +15,4 @@
 ---
 [![](https://komarev.com/ghpvc/?username=Gulamjilanee786&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
-
-<!--
-**Gulamjilanee786/Gulamjilanee786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
